@@ -9,7 +9,7 @@ This is a sleek and customizable **Pause Menu** script developed for FiveM, perf
 
 - 🧩 Fully customizable layout and design
 - 🎨 Stylish UI with animations
-- ⚙️ Easy integration with QBCore
+- ⚙️ Easy integration with QBCore & ESX
 - 🌐 HTML/CSS/JS based frontend
 - 🖱️ Mouse & Keyboard Navigation Support
 - 🚀 Optimized for performance
