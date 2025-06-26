@@ -20,3 +20,5 @@ This is a sleek and customizable **Pause Menu** script developed for FiveM, perf
 2. Add the resource to your `server.cfg`:
    ```cfg
    ensure fivem-pause-menu
+
+------------------------------------------------------------------------------------
